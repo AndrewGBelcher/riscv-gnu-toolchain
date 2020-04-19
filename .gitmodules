@@ -19,3 +19,6 @@
 [submodule "qemu"]
 	path = qemu
 	url = https://git.qemu.org/git/qemu.git
+[submodule "riscv-binutils-gdb"]
+	path = riscv-binutils-gdb
+	url = https://github.com/AndrewGBelcher/riscv-binutils-gdb
